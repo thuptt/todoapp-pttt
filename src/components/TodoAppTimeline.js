@@ -10,7 +10,7 @@ export function TodoAppTimeline() {
 
     return (
         <div style={{ backgroundColor: '#3da3d5' }}>
-            <h2>CÁC HỆ QUẢN TRỊ CƠ SỞ DỮ LIỆU NÂNG CAO</h2>
+            <h2>CÁC HỆ QUẢN TRỊ CƠ SỞ DỮ LIỆU</h2>
             <VerticalTimeline>
                 {data.map((item) => {
                     return (
