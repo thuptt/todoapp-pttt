@@ -4,7 +4,7 @@ import React from 'react';
 export const NotFound = () => {
     return (
         <div>
-            <h2>Không tìm thấy trang yêu cầu</h2>
+            <h2>Welcome to my TO DO APP</h2>
         </div>
     )
 };
